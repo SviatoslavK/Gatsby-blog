@@ -1,13 +1,23 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
+      "component": "/home/sviatoslav/project/Gatsby-blog/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "updatedAt": 1515077610969,
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/home/sviatoslav/project/Gatsby-blog/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "contentDigest": "5065bcd57b8080563ef92011b77c34c2",
         "owner": "internal-data-bridge"
       }
     },
@@ -614,14 +624,16 @@
       "siteMetadata": {
         "title": "Gatsby Blog"
       },
+      "port": "8000",
+      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-01-04T14:25:33.174Z",
+      "buildTime": "2018-01-04T14:52:22.465Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "32d225f8680c51e6bea9d59096b4b03d",
+        "contentDigest": "c5d542abe4f8d5e9ce5b0a8f7bc51e7c",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -631,7 +643,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b22d0bc00f3afc7b726dccf6e5a79f60",
+        "contentDigest": "de848cdca4793a4548c648d7795f3cb7",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -641,10 +653,10 @@
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
-      "modifiedTime": "2018-01-04T13:40:03.647Z",
-      "accessTime": "2018-01-04T13:40:03.667Z",
-      "changeTime": "2018-01-04T13:40:03.647Z",
-      "birthTime": "2018-01-04T13:40:03.647Z",
+      "modifiedTime": "2018-01-04T14:52:16.645Z",
+      "accessTime": "2018-01-04T14:52:16.649Z",
+      "changeTime": "2018-01-04T14:52:16.645Z",
+      "birthTime": "2018-01-04T14:52:16.645Z",
       "root": "/",
       "dir": "/home/sviatoslav/project/Gatsby-blog/src",
       "base": "pages",
@@ -660,14 +672,14 @@
       "blksize": 4096,
       "ino": 8662328,
       "blocks": 8,
-      "atimeMs": 1515073203667.1628,
-      "mtimeMs": 1515073203647.1628,
-      "ctimeMs": 1515073203647.1628,
-      "birthtimeMs": 1515073203647.1628,
-      "atime": "2018-01-04T13:40:03.667Z",
-      "mtime": "2018-01-04T13:40:03.647Z",
-      "ctime": "2018-01-04T13:40:03.647Z",
-      "birthtime": "2018-01-04T13:40:03.647Z"
+      "atimeMs": 1515077536649.2703,
+      "mtimeMs": 1515077536645.2703,
+      "ctimeMs": 1515077536645.2703,
+      "birthtimeMs": 1515077536645.2703,
+      "atime": "2018-01-04T14:52:16.649Z",
+      "mtime": "2018-01-04T14:52:16.645Z",
+      "ctime": "2018-01-04T14:52:16.645Z",
+      "birthtime": "2018-01-04T14:52:16.645Z"
     },
     "/home/sviatoslav/project/Gatsby-blog/src/pages/01–04–2017-first-post absPath of file": {
       "id": "/home/sviatoslav/project/Gatsby-blog/src/pages/01–04–2017-first-post absPath of file",
@@ -918,7 +930,7 @@
       "component": "/home/sviatoslav/project/Gatsby-blog/src/templates/blog-post.js",
       "componentChunkName": "component---src-templates-blog-post-js",
       "context": {},
-      "updatedAt": 1515075935116,
+      "updatedAt": 1515077610975,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/sviatoslav/project/Gatsby-blog/src/templates/blog-post.js",
@@ -927,7 +939,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "79f96653ba94fe275fec52925b19f3cb",
+        "contentDigest": "506ce848b1dcf7c577e06d8ce95be832",
         "owner": "internal-data-bridge"
       }
     },
@@ -939,7 +951,7 @@
       "component": "/home/sviatoslav/project/Gatsby-blog/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1515075935123,
+      "updatedAt": 1515077544595,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/home/sviatoslav/project/Gatsby-blog/src/pages/404.js",
@@ -948,7 +960,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "66dc9a66f9a1f366768027a9a6cf0777",
+        "contentDigest": "f3d1486a68889a6c14b1bf4045c24887",
         "owner": "internal-data-bridge"
       }
     },
@@ -960,7 +972,7 @@
       "component": "/home/sviatoslav/project/Gatsby-blog/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1515075935124,
+      "updatedAt": 1515077544595,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/home/sviatoslav/project/Gatsby-blog/src/pages/index.js",
@@ -969,7 +981,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8ec06d14ec38d82d8c2f6d85f3da8620",
+        "contentDigest": "bf30d9bf6f7b144a3471e90347677036",
         "owner": "internal-data-bridge"
       }
     },
@@ -981,7 +993,7 @@
       "component": "/home/sviatoslav/project/Gatsby-blog/src/pages/page-2.js",
       "componentChunkName": "component---src-pages-page-2-js",
       "context": {},
-      "updatedAt": 1515075935125,
+      "updatedAt": 1515077544596,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/home/sviatoslav/project/Gatsby-blog/src/pages/page-2.js",
@@ -990,7 +1002,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "837400f962984c8c96188bd97bdd3b58",
+        "contentDigest": "693825b9a4bba83eee631a99d437680a",
         "owner": "internal-data-bridge"
       }
     },
@@ -1002,7 +1014,7 @@
       "component": "/home/sviatoslav/project/Gatsby-blog/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1515075935127,
+      "updatedAt": 1515077544598,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "/home/sviatoslav/project/Gatsby-blog/src/pages/404.js",
@@ -1011,7 +1023,94 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "01ae0b90d4c193141f5b68320112d119",
+        "contentDigest": "b5455011c7c2d61fbacf03071d8ba758",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "/home/sviatoslav/project/Gatsby-blog/src/pages/01–04–2017-first-post/index2.md absPath of file": {
+      "id": "/home/sviatoslav/project/Gatsby-blog/src/pages/01–04–2017-first-post/index2.md absPath of file",
+      "children": [
+        "/home/sviatoslav/project/Gatsby-blog/src/pages/01–04–2017-first-post/index2.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "fdfac531c38e351414c1db404cd7a6c7",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/sviatoslav/project/Gatsby-blog/src/pages/01–04–2017-first-post/index2.md",
+      "relativePath": "01–04–2017-first-post/index2.md",
+      "extension": "md",
+      "size": 971,
+      "prettySize": "971 B",
+      "modifiedTime": "2018-01-04T14:53:30.854Z",
+      "accessTime": "2018-01-04T14:53:24.586Z",
+      "changeTime": "2018-01-04T14:53:30.854Z",
+      "birthTime": "2018-01-04T14:53:30.854Z",
+      "root": "/",
+      "dir": "/home/sviatoslav/project/Gatsby-blog/src/pages/01–04–2017-first-post",
+      "base": "index2.md",
+      "ext": ".md",
+      "name": "index2",
+      "relativeDirectory": "01–04–2017-first-post",
+      "dev": 64769,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8662387,
+      "blocks": 8,
+      "atimeMs": 1515077604585.756,
+      "mtimeMs": 1515077610853.8008,
+      "ctimeMs": 1515077610853.8008,
+      "birthtimeMs": 1515077610853.8008,
+      "atime": "2018-01-04T14:53:24.586Z",
+      "mtime": "2018-01-04T14:53:30.854Z",
+      "ctime": "2018-01-04T14:53:30.854Z",
+      "birthtime": "2018-01-04T14:53:30.854Z"
+    },
+    "/home/sviatoslav/project/Gatsby-blog/src/pages/01–04–2017-first-post/index2.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/sviatoslav/project/Gatsby-blog/src/pages/01–04–2017-first-post/index2.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/sviatoslav/project/Gatsby-blog/src/pages/01–04–2017-first-post/index2.md absPath of file",
+      "internal": {
+        "content": "---\npath: \"/react\"\ndate: \"2018-01-04\"\ntitle: \"Test post\"\nsrc: \"https://cdn-images-1.medium.com/max/2000/1*P54PpELlIRgiGNSgLDBwNQ.jpeg\"\n---\n<b>Gatsby</b> is a blazing fast static site generator based on ReactJS.\n\nA static site generator (SSG) is a compromise between a hard-coded HTML static site and a full blown CMS (Content Management System), like Wordpress.\n\nA SSG can be used to generate HTML pages for content-driven websites (such as blogs). All it requires is data for page content and the template to fill with content.\n\nThis post will be divided into five sections:\n<ol>\n  <li>Getting started.</li>\n  <li>Creating layout components.</li>\n  <li>Creating blog posts.</li>\n  <li>Generating new pages from blog post data.</li>\n  <li>Create a list of our site’s markdown files in landing page.</li>\n</ol>\nWe’ll take a deep dive into Gatsby and some of its features by creating an imaginary static blog called CodeStack. Mockup is shown below. Let’s go! ✌️\n",
+        "contentDigest": "09a41fc1957dab51b063217345523d0f",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Test post",
+        "path": "/react",
+        "date": "2018-01-04",
+        "src": "https://cdn-images-1.medium.com/max/2000/1*P54PpELlIRgiGNSgLDBwNQ.jpeg",
+        "_PARENT": "/home/sviatoslav/project/Gatsby-blog/src/pages/01–04–2017-first-post/index2.md absPath of file",
+        "parent": "/home/sviatoslav/project/Gatsby-blog/src/pages/01–04–2017-first-post/index2.md absPath of file"
+      },
+      "fileAbsolutePath": "/home/sviatoslav/project/Gatsby-blog/src/pages/01–04–2017-first-post/index2.md"
+    },
+    "SitePage /react": {
+      "layout": "index",
+      "jsonName": "react.json",
+      "internalComponentName": "ComponentReact",
+      "path": "/react",
+      "component": "/home/sviatoslav/project/Gatsby-blog/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "updatedAt": 1515077610976,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/sviatoslav/project/Gatsby-blog/src/templates/blog-post.js",
+      "id": "SitePage /react",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "1483997c3b692c5fd9fb052c79646fa3",
         "owner": "internal-data-bridge"
       }
     }
@@ -1024,6 +1123,9 @@
     "nodes": {
       "/home/sviatoslav/project/Gatsby-blog/src/pages/01–04–2017-first-post/index.md absPath of file >>> MarkdownRemark": [
         "/react-gatsby-blog"
+      ],
+      "/home/sviatoslav/project/Gatsby-blog/src/pages/01–04–2017-first-post/index2.md absPath of file >>> MarkdownRemark": [
+        "/react"
       ]
     },
     "connections": {
